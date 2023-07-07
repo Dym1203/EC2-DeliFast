@@ -14,8 +14,8 @@ class LoginActivity : AppCompatActivity() {
         binding = ActivityLoginBinding.inflate(layoutInflater)
         setContentView(binding.root)
         binding.btnLogin.setOnClickListener {
-            val edtemail = binding.edtEmail.text.toString()
-            val edtpassword = binding.edtPassword.text.toString()
+            val edtemail = binding.edtEmail.text.toString().trim()
+            val edtpassword = binding.edtPassword.text.toString().trim()
             if (validateEmailPassword(edtemail, edtpassword)) {
                 if (edtemail.equals("ejemplo@idat.edu.pe") && edtpassword.equals("123456")) {
                     val intent = Intent(this, MainActivity::class.java)
