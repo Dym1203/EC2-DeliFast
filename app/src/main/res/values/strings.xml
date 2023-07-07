@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">DeliFast</string>
+    <string name="inicio">EC2 - Dylan Mejía</string>
+    <string name="descripcion">Tu solución intuitiva y eficiente para realizar pedidos\n de comida desde la comodidad de tu dispositivo móvil</string>
+    <string name="version">Versión 1.1.0</string>
+    <string name="copyright">DeliFast 2023 © Derechos Reservados</string>
+    <string name="email">Email</string>
+    <string name="password">Contraseña</string>
+    <string name="login">Ingresar</string>
+    <string name="bienvenida">¡Bienvenido a DeliFast!</string>
+    <string name="captura">Realizar una Foto</string>
+    <string name="foto">Tomar Foto</string>
+    <string name="informacion">Información del Desarrollo</string>
+    <string name="contenido">Alumno: Dylan Antonio Mejía Torres\nCurso: Desarrollo de Apps Móviles 2\nCiclo: V\nTemática de la EC: Reflejar una app de pedidos\nEntorno de Desarrollo: Android Studio\nLenguaje: Kotlin</string>
+    <string name="click">Presiona Aquí</string>
+    <string name="API_KEY">AIzaSyCnsvz_LfJ-TA2w8MI4-ZpSNmISFAd5bY8</string>
+</resources>
