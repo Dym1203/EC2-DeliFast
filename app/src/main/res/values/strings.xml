@@ -11,7 +11,7 @@
     <string name="captura">Realizar una Foto</string>
     <string name="foto">Tomar Foto</string>
     <string name="informacion">Información del Desarrollo</string>
-    <string name="contenido">Alumno: Dylan Antonio Mejía Torres\nCurso: Desarrollo de Apps Móviles 2\nCiclo: V\nTemática de la EC: Reflejar una app de pedidos\nEntorno de Desarrollo: Android Studio\nLenguaje: Kotlin</string>
+    <string name="contenido">Alumno: Dylan Antonio Mejía Torres\nCurso: Desarrollo de Apps Móviles 2\nCiclo: VI\nTemática de la EC: Reflejar una app de pedidos\nEntorno de Desarrollo: Android Studio\nLenguaje: Kotlin</string>
     <string name="click">Presiona Aquí</string>
     <string name="API_KEY">AIzaSyCnsvz_LfJ-TA2w8MI4-ZpSNmISFAd5bY8</string>
 </resources>
