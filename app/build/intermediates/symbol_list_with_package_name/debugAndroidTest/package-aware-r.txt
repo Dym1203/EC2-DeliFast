@@ -1,0 +1,3 @@
+com.ec2.dylan.delifast.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme
